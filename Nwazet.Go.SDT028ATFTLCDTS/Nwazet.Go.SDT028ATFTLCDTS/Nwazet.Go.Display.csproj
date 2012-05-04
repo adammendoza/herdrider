@@ -74,7 +74,7 @@
       <Project>{C0F54A2B-0486-46E3-8F2E-D32E322A565E}</Project>
       <Name>GoBus</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\..\Secret Labs\Assemblies\SecretLabs.NETMF.Hardware.NetduinoGo\SecretLabs.NETMF.Hardware.NetduinoGo.csproj">
+    <ProjectReference Include="..\..\SecretLabs.NETMF.Hardware.NetduinoGo\SecretLabs.NETMF.Hardware.NetduinoGo.csproj">
       <Project>{54886508-907A-4D1B-95AB-004305A226EA}</Project>
       <Name>SecretLabs.NETMF.Hardware.NetduinoGo</Name>
     </ProjectReference>

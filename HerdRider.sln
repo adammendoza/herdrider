@@ -13,6 +13,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nwazet.Go.Display", "Nwazet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecretLabs.NETMF.Hardware.NetduinoGo", "SecretLabs.NETMF.Hardware.NetduinoGo\SecretLabs.NETMF.Hardware.NetduinoGo.csproj", "{54886508-907A-4D1B-95AB-004305A226EA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FA6357CF-FC95-4711-8AB8-3C3731BE3BB5}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
