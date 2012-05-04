@@ -1,0 +1,98 @@
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\obj\Debug\TinyCLR_DebugReferences.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\le\Nwazet.Go.SD.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\be\Nwazet.Go.SD.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\le\Nwazet.Go.SD.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\be\Nwazet.Go.SD.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\Nwazet.Go.SD.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\Nwazet.Go.SD.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\le\Nwazet.Go.SD.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\le\Nwazet.Go.SD.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\be\Nwazet.Go.SD.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\be\Nwazet.Go.SD.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\LE\GoBus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.IO.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\BE\GoBus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.IO.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\LE\GoBus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.IO.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\BE\GoBus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.IO.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\GoBus.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.IO.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\GoBus.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.IO.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\obj\Debug\be\Nwazet.Go.SD.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\obj\Debug\be\Nwazet.Go.SD.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\obj\Debug\le\Nwazet.Go.SD.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\obj\Debug\le\Nwazet.Go.SD.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\obj\Debug\Nwazet.Go.SD.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SD\obj\Debug\Nwazet.Go.SD.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\obj\Debug\TinyCLR_DebugReferences.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\obj\Debug\Nwazet.Go.SD.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\le\Nwazet.Go.SD.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\be\Nwazet.Go.SD.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\le\Nwazet.Go.SD.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\be\Nwazet.Go.SD.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\Nwazet.Go.SD.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\Nwazet.Go.SD.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\le\Nwazet.Go.SD.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\le\Nwazet.Go.SD.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\be\Nwazet.Go.SD.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\be\Nwazet.Go.SD.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\GoBus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Diagnostics.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoMini.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.IO.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\GoBus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Diagnostics.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoMini.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.IO.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\GoBus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Diagnostics.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoMini.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\LE\SecretLabs.NETMF.IO.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\GoBus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Diagnostics.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.Netduino.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoMini.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoPlus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\BE\SecretLabs.NETMF.IO.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\GoBus.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Diagnostics.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoMini.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.IO.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\GoBus.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Diagnostics.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.Netduino.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoMini.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoPlus.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\bin\Debug\SecretLabs.NETMF.IO.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SD\obj\Debug\Nwazet.Go.SD.dll

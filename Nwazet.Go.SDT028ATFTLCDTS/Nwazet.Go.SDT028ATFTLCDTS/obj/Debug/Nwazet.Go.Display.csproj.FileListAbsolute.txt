@@ -1,0 +1,58 @@
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\le\Nwazet.Go.SDT028ATFTLCDTS.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\be\Nwazet.Go.SDT028ATFTLCDTS.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\le\Nwazet.Go.SDT028ATFTLCDTS.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\be\Nwazet.Go.SDT028ATFTLCDTS.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\Nwazet.Go.SDT028ATFTLCDTS.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\Nwazet.Go.SDT028ATFTLCDTS.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\le\Nwazet.Go.SDT028ATFTLCDTS.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\le\Nwazet.Go.SDT028ATFTLCDTS.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\be\Nwazet.Go.SDT028ATFTLCDTS.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\be\Nwazet.Go.SDT028ATFTLCDTS.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\GoBus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\Nwazet.Go.Core.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\GoBus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\Nwazet.Go.Core.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\GoBus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\Nwazet.Go.Core.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\GoBus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\Nwazet.Go.Core.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\SecretLabs.NETMF.Hardware.NetduinoGo.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\GoBus.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\GoBus.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\SecretLabs.NETMF.Hardware.NetduinoGo.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\Nwazet.Go.Core.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\obj\Debug\TinyCLR_DebugReferences.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\obj\Debug\Nwazet.Go.SDT028ATFTLCDTS.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\obj\Debug\Nwazet.Go.SDT028ATFTLCDTS.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\le\Nwazet.Go.SDT028ATFTLCDTS.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\be\Nwazet.Go.SDT028ATFTLCDTS.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\le\Nwazet.Go.SDT028ATFTLCDTS.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\be\Nwazet.Go.SDT028ATFTLCDTS.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\Nwazet.Go.SDT028ATFTLCDTS.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\Nwazet.Go.SDT028ATFTLCDTS.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\le\Nwazet.Go.SDT028ATFTLCDTS.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\le\Nwazet.Go.SDT028ATFTLCDTS.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\be\Nwazet.Go.SDT028ATFTLCDTS.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\be\Nwazet.Go.SDT028ATFTLCDTS.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\GoBus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\Nwazet.Go.Core.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\GoBus.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\Nwazet.Go.Core.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\GoBus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\LE\Nwazet.Go.Core.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\GoBus.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\BE\Nwazet.Go.Core.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\GoBus.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\GoBus.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\bin\Debug\Nwazet.Go.Core.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\obj\Debug\TinyCLR_DebugReferences.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\obj\Debug\Nwazet.Go.SDT028ATFTLCDTS.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.SDT028ATFTLCDTS\Nwazet.Go.SDT028ATFTLCDTS\obj\Debug\Nwazet.Go.SDT028ATFTLCDTS.pdb

@@ -1,0 +1,28 @@
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\le\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\be\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\le\Nwazet.Go.Core.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\be\Nwazet.Go.Core.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\Nwazet.Go.Core.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\le\Nwazet.Go.Core.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\le\Nwazet.Go.Core.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\be\Nwazet.Go.Core.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\be\Nwazet.Go.Core.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\obj\Debug\TinyCLR_DebugReferences.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\obj\Debug\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\Netduino Fabian Display\Library\Nwazet.Go.Core\Nwazet.Go.Core\obj\Debug\Nwazet.Go.Core.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\le\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\be\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\le\Nwazet.Go.Core.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\be\Nwazet.Go.Core.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\Nwazet.Go.Core.pdb
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\le\Nwazet.Go.Core.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\le\Nwazet.Go.Core.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\be\Nwazet.Go.Core.pe
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\bin\Debug\be\Nwazet.Go.Core.pdbx
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\obj\Debug\TinyCLR_DebugReferences.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\obj\Debug\Nwazet.Go.Core.dll
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Core\Nwazet.Go.Core\obj\Debug\Nwazet.Go.Core.pdb

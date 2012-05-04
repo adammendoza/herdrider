@@ -1,0 +1,2 @@
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Relay\Nwazet.Go.Relay\obj\Debug\ResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2010\Projects\HerdRider\Nwazet.Go.Relay\Nwazet.Go.Relay\obj\Debug\TinyCLR_DebugReferences.cache
