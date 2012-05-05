@@ -44,6 +44,10 @@
     <Reference Include="System.IO" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Helpers\Helpers.csproj">
+      <Project>{D1BE963D-E0B3-4AB8-B33F-9964AA8F3241}</Project>
+      <Name>Helpers</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Nwazet.Go.Core\Nwazet.Go.Core\Nwazet.Go.Core.csproj">
       <Project>{FF43E52E-7BAD-427B-AAF4-F8C6669AFF1C}</Project>
       <Name>Nwazet.Go.Core</Name>
